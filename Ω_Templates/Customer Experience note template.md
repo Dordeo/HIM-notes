@@ -1,6 +1,7 @@
 ---
-week: 0
+week:
 subject: Customer Experience
 shared: true
 tags:
+  - Template
 ---

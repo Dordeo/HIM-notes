@@ -1,5 +1,5 @@
 ---
-week: 0
+week: 1
 subject: Mathematics for Business
 shared: true
 tags:
@@ -32,11 +32,11 @@ Learn how to do basic math with its concepts. Use analytical thinking and go for
 
 # Important Concepts
 
-ROE (Return on equity)
-Current Ratio (Current assets over current liabilities)
-Debt-to-Equity (debt over equity)
+[[ROE (Return on equity)]]
+[[Current Ratio (Current assets over current liabilities)]]
+[[Debt-to-Equity (debt over equity)]]
 
-Operating costs = Fixed Costs(rent for example) + Variable Costs (Number of employees * their salary, materials bought)
+[[Operating costs]] = Fixed Costs(rent for example) + Variable Costs (Number of employees * their salary, materials bought)
 
 # Problem solving steps
 
