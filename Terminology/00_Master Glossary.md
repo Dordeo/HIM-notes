@@ -1,5 +1,5 @@
 ---
-subject: Customer Experience
+subject: Front Office and Guest Satisfaction
 ---
 
 All terminologies based on the subject put in the subject field
