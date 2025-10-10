@@ -1,5 +1,5 @@
 ---
-subject: Front Office and Guest Satisfaction
+subject: Principles of Microeconomics
 ---
 
 All terminologies based on the subject put in the subject field

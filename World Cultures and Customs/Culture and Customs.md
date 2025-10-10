@@ -14,7 +14,7 @@ tags:
 - Understand actions of others 
 
 # What is culture 
-[[ Culture ]] - The values, traditions , worldview, and social and political relationships that are created, shared and transformed by a group of people.
+[[Culture]] - The values, traditions , worldview, and social and political relationships that are created, shared and transformed by a group of people.
 
 Culture has multiple factors that influence it : 
 - Historical roots
@@ -31,12 +31,12 @@ Culture has multiple factors that influence it :
 - Norms 
 - Language
 - Values
-- SociaI  Trends
+- Social Trends
 
 ## [[Functions of culture]]
--  Bring a systematic order to Values
+- Bring a systematic order to Values
 - Social solidarity
--  Guidline for social structure
+- Gridline for social structure
 - Direction for individuals
 - Distinguish friend from stranger
 

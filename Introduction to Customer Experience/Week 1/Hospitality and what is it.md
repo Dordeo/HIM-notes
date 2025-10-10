@@ -21,6 +21,6 @@ Hospitality is ancient, tracing back to inns and taverns.
 Key Differences: Tourism focuses mainly on travelers Hospitality focuses on various parts of providing service and comfort to travelers
 
 ### To be successful in hospitality, we must consider: 
-	• Improving the CX 
+	• Improving the Customer Experience 
 	• Staying updated with latest trends and advancements 
 	• Ensuring guests are satisfied and needs are fulfilled

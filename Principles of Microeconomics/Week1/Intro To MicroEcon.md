@@ -11,12 +11,12 @@ tags:
 [[Economic activity]]: how much buying and selling goes on in an economy over time
 [[Economy]] : all the production and exchange activities that take place
 
-## 3 Economic Factors of Production
-[[ Land ]] - all the natural resources of the earth,
-[[ Labour ]] - human effort
-[[ Capital ]] - equipment and structures used to produce the goods and service
+## [[3 Economic Factors of Production]]
+Land  - all the natural resources of the earth,
+Labour - human effort
+Capital  - equipment and structures used to produce the goods and service
 
-# Oportunity Costs and utility
+# Opportunity Costs and utility
 
 [[ Opportunity cost ]] - the price of the next best choice you give up when making a decision
 
@@ -32,7 +32,7 @@ Trade Allows people to specialise, increases the variety and lowers costs for co
 
 # Type of Costs
 [[ Explicit Costs ]]  - monetary payment made to a producer to acquire an item
-[[ Implicit Costs ]] - oppor tunity cost of this choice
+[[ Implicit Costs ]] - opportunity cost of this choice
 
 Total costs = Explicit costs + Implicit Costs
 
@@ -41,5 +41,5 @@ Total costs = Explicit costs + Implicit Costs
 # Definitions
 [[ Economic growth ]]  - the increase in the amount of goods and services in an economy over a period of time.
 [[ GDP per capita ]] -  market value of all final goods and services produced within a country over the population
-[[ Productivity]]
+
 
