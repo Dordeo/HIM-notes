@@ -18,14 +18,14 @@ tags:
 
 Culture has multiple factors that influence it : 
 - Historical roots
-- Language, religion, geography if summarized it is localita 
+- Language, religion, geography if summarized it is locality 
 - Aging / time 
 
-## Three levels of culture
+## [[Three levels of culture]]
 ( Ordered by how easy is it to observe them ) 
-- [[Concrete level]] - visible objects, art, food, fashion, architecture
-- [[Behavioral leveI]] - Communication styles, customs, social dynamic
-- [[ Symbolic level ]] - core values and believes
+- Concrete level - visible objects, art, food, fashion, architecture
+- Behavioral level - Communication styles, customs, social dynamic
+- Symbolic level - core values and believes
 
 ## [[Essential Components of Culture]]
 - Norms 
@@ -36,9 +36,16 @@ Culture has multiple factors that influence it :
 ## [[Functions of culture]]
 - Bring a systematic order to Values
 - Social solidarity
-- Gridline for social structure
+- Guideline for social structure
 - Direction for individuals
 - Distinguish friend from stranger
+
+# Ways to Learn Culture
+
+There are 3 ways to learn culture:
+- Imitation - person imitating what a another cultured person  does
+- Conditioning - very similar to carrot and the stick learning approach, when a person makes error his cultural teacher corrects him in a way to align with the said culture
+- Indoctrination - Preacher teaching culture directly to the student for example. The most direct approach
 
 
 
