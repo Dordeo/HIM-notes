@@ -2,7 +2,7 @@
 tags:
   - Terminology
 subject: Mathematics for Business
-shared: true
+shared: false
 source_note: "[[Purpose of Mathematics in business]]"
 term: Debt to Equity
 definition: This ratio compares a company’s total liabilities to its shareholder equity.

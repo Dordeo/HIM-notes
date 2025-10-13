@@ -1,5 +1,5 @@
 ---
-subject: Principles of Microeconomics
+subject: Business Research and Writing
 ---
 
 All terminologies based on the subject put in the subject field

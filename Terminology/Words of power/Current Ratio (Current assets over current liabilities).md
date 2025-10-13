@@ -2,7 +2,7 @@
 tags:
   - Terminology
 subject: Mathematics for Business
-shared: true
+shared: false
 source_note: "[[Purpose of Mathematics in business]]"
 term: Current Ratio
 definition: The current ratio assesses a company’s ability to pay short-term obligations with short-term assets.

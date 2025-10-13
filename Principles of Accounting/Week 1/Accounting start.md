@@ -3,7 +3,6 @@ week: 1
 subject: Principles of Accounting
 shared: true
 tags:
-  - Template
 ---
 Principles of accounting.
 Foundation  that will  provide you the basics for understanding numbers. 
