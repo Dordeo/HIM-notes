@@ -49,13 +49,13 @@ Expenses are to be recorded in the same accounting period as the revenues help g
 ## Principles vs Assumptions 
 [[ Principles ]] are fundamental truths or rules, often derived from experience or values, that serve as the foundation  for reasoning.
 
-[[ Assumptions ]] are beliefs not necceserally true at all times, but are taken for granted.
+[[ Assumptions ]] are beliefs not necessarily true at all times, but are taken for granted.
 
 ### Four assumptions  :
 ####  1. [[Going-concern assumption]]
 The company will continue to exist rather than ever being sold or shut down. (Very Long Time period, 100 years )
 
-#### 2. [[Monetary unit asumption]]
+#### 2. [[Monetary unit assumption]]
 Consistent recording in the same currency, aka monetary unit. 
 
 #### 3. [[Time period assumption]]
@@ -65,7 +65,7 @@ A company's life is split into regular periods to report financial results.
 A business is treated as a separate entity from its owners or other businesses. 
 
 ### Constraint
-**Means exactly what is means in english, limit or restriction**
+**Means exactly what is means in English, limit or restriction**
 
-#### [[Cost - Benefit Constraint]]
+#### [[Cost-Benefit Constraint]]
 Advantages of an action or decision should outweigh its costs. 
