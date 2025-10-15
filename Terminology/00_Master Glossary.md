@@ -1,5 +1,5 @@
 ---
-subject: Principles of Accounting
+subject: Introduction to Finance
 ---
 
 All terminologies based on the subject put in the subject field
