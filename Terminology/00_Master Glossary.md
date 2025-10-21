@@ -1,5 +1,5 @@
 ---
-subject: Introduction to Finance
+subject: Mathematics for Business
 ---
 
 All terminologies based on the subject put in the subject field

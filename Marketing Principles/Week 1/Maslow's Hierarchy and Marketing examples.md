@@ -50,7 +50,6 @@ Good marketing focuses on three main point :
 
 # Marketing for Non-Profit vs Profit
 
-
 | Variable/Type                    | Non Profit                   | Profit                     |
 | -------------------------------- | ---------------------------- | -------------------------- |
 | Purpose                          | Social impact                | Financial Impact           |
@@ -68,3 +67,7 @@ Marketing generates value in :
 2. Time - the product is readily available
 3. Place - Products are where they are needed
 4. Psychological - the product does something more than just its jobs. It generate connection with the customer
+
+
+## Purchasing Power
+[[ Purchasing Power ]] - each customer has different amount of money they can give per product. 
