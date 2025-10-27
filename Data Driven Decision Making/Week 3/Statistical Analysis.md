@@ -1,16 +1,16 @@
 ---
-week:
+week: 3
 subject: Data Driven Decision Making
 shared: true
 tags:
 ---
-# Mean
+# [[Mean]]
 average of the sample or population
 $$
 µ = \frac{ ∑x_i}{ n}
 $$
 
-# Spread
+# [[Spread]]
 A metric that describes how spread out the values in the data are.
 
 $$
@@ -52,9 +52,9 @@ $$
 $$
  IQR allows you to select middle 50% of data.
 
-  Median is the middle of the all elements in the sample.
+  [[Median]] is the middle of the all elements in the sample.
   
-  If it is even amount of numbers in the sample, take average of the middle two.
+  If it is even amount of numbers in the sample, take average of the middle two. Else take the middle number of the sample. SAMPLE MUST BE SORTED from lowest to highest
 
 # Graphs
 Skewness - The graph is skewed when mean and median are not the same.

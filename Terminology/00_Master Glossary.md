@@ -10,10 +10,15 @@ const currentFolder = dv.current().file.path.split("/").slice(0, -1).join("/");
 const folderQuery = `"${currentFolder}"`;
 const targetSubject = dv.current().subject;
 
-const pages = dv.pages(folderQuery)
-  .where(p => p.file.name != dv.current().file.name)
-  .where(p => Array.isArray(p.subject) ? p.subject.includes(targetSubject) : p.subject === targetSubject);
+const normalizeSubject = s => {
+  if (Array.isArray(s)) return s;
+  if (typeof s === "string") return s.split(",").map(x => x.trim());
+  return [];
+};
 
+const pages = dv.pages(folderQuery)
+  .where(p => p.file.name !== dv.current().file.name)
+  .where(p => normalizeSubject(p.subject).includes(targetSubject));
 // Step 1: Scan all fields used
 const fields = ["term", "definition", "use", "formula", "source_note"];
 const activeFields = fields.filter(field =>
