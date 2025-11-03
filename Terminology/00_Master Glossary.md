@@ -1,5 +1,5 @@
 ---
-subject: Mathematics for Business
+subject: Data Driven Decision Making
 ---
 
 All terminologies based on the subject put in the subject field

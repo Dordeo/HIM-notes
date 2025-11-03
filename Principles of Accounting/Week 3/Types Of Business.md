@@ -1,5 +1,5 @@
 ---
-week:
+week: 3
 subject: Principles of Accounting
 shared: true
 tags:
@@ -14,3 +14,10 @@ one more individuals, called members.
  - Corporation - 1 or more, called stockholders; can 
 get many investors by selling stock or shares of corporate 
 ownership .
+
+
+# **IMPORTANT**
+[[Assets]] = Liabilities - Equity
+Assets are all things company owns.
+Liabilities are debts
+Equity is what shareholders own of the company

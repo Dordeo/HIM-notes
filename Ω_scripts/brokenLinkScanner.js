@@ -1,10 +1,10 @@
 module.exports = async (tp) => {
   // --- CONFIG ---
-  const cacheNotePath = "Ω Non Existant Links/BrokenLinkCache.md";
-  const reportNotePath = "Ω Non Existant Links/LinkReport.md";
+  const cacheNotePath = "Ω_Non_Existent_Links/BrokenLinkCache.md";
+  const reportNotePath = "Ω_Non_Existent_Links/LinkReport.md";
   const cacheBlockStart = "%%CACHE_START%%";
   const cacheBlockEnd = "%%CACHE_END%%";
-  const forceFullScan = false;
+  const forceFullScan = true;
 
   const vault = app.vault;
   const workspace = app.workspace;

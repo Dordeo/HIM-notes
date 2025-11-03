@@ -23,4 +23,9 @@ to start the git hub for THE FIRST TIME you HAVE TO use command git init
 IF YOU have used git init command ALREADY do not use it agian it will fail
 
 
+BTW ALL FOLDER THAT START WITH OMEGA SYMBOL. IT IS PURELY TECHINCAL THINGS
+DONT PAY ATTENTION TO THEM
+
+
+
 
