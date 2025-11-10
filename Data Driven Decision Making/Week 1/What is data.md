@@ -3,7 +3,6 @@ week: 1
 subject: Data Driven Decision Making
 shared: true
 tags:
-  - Template
 ---
 # Agenda
 

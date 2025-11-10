@@ -21,7 +21,8 @@ The marketing mix provides a balanced framework where each element contributes t
 
 ## 🔍 Value-Added Product Comparison
 
-### Low Value-Added Products
+### [[Low Value-Added Products]]
+Product that are priced from low to average prices. They are usually the most profitable as they are sold in bulk, big quantities. They also serve as an entry strategy into the market and provide a good entry point into the market and also support high value productions.
 
 #### Characteristics
 - Minimal differentiation
@@ -42,7 +43,8 @@ The marketing mix provides a balanced framework where each element contributes t
 
 *Limited Brand loyalty*
 
-### High Value-Added Products
+### [[High Value-Added Products]]
+Products that are sold high to prestige prices. They redeem themselves by possessing a higher quality, diversity and exclusivity. They are a good way to promote revenue and brands but are a gamble.
 
 #### Characteristics
 - Strong differentiation

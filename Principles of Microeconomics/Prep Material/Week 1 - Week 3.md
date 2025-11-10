@@ -3,7 +3,6 @@ week:
 subject: Principles of Microeconomics
 shared: true
 tags:
-  - Template
 ---
 # 🧠 Principles of Economics (Week 1)
 What Is Economics?

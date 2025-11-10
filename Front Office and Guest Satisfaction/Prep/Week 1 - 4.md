@@ -65,11 +65,11 @@ tags:
 | Barrier-Free  | ADA/accessibility compliant                 |
 
 ### Room Arrangement
-| Arrangement   | Description                                 |
-|---------------|---------------------------------------------|
-| Connecting    | Shared door between rooms                   |
-| Adjoining     | Common wall, no connecting door             |
-| Adjacent      | Nearby rooms, not necessarily connected     |
+| Arrangement | Description                             |
+| ----------- | --------------------------------------- |
+| Connecting  | Shared door between rooms               |
+| Adjoining   | Common wall, no connecting door         |
+| Adjacent    | Nearby rooms, not necessarily connected |
 
 ---
 

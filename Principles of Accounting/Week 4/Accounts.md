@@ -18,4 +18,4 @@ Type of Liabilities :
 - [[Non-current liabilities]] - liabilities that need to be settled after a year or more.
 
 ## Account Payable
-[[Account Payable]] - money the company owes for a product it has bought, if it decides to pay at a later date.
+[[Account Payable]] - money the company owes for a product it has bought, if it decides to pay at a later date. Is a liability.

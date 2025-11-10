@@ -59,9 +59,9 @@ Daily reports and and its logbook
 
 # Role of Trust
 
-[[Customer Experience]] - emotions from every interaction on every channel of customer to business interactions.
+[[Terminology/Words of power/Customer Experience]] - emotions from every interaction on every channel of customer to business interactions.
 
-[[Customer Service]] - the functional elements a company provides to its customer before, daring and after product or service is bought.
+[[Customer Service]] - the functional elements a company provides to its customer before, during and after product or service is bought.
 
 Customer Experience is emotional while Customer Service is functional. 
 

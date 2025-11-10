@@ -1,6 +1,6 @@
 ---
 subject: Career
 week:
-tags: Template
+tags:
 shared:
 ---
