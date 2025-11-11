@@ -6,6 +6,8 @@ tags:
 ---
 [[Contra Assets]] - assets that work against the assets, AKA assets that actually are lost value, like depreciation. When equipment ages it loses value. This value is recorded in Depreciation a non current asset. There is also Unpaid Debt Allowance which is a current asset, and records the value of money the customer did not pay.
 
+Allowance for doubtful debts - the amount of revenue that you are allowed not to receive from the customer. Sometimes the customer does not pay what they promised.
+
 [[Amortized]] - a depreciated value of Intangible assets.
 
 # Equity
