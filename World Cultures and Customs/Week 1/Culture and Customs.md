@@ -14,7 +14,7 @@ tags:
 - Understand actions of others 
 
 # What is culture 
-[[Culture]] - The values, traditions , worldview, and social and political relationships that are created, shared and transformed by a group of people.
+[[Culture]] - The values, traditions , worldview, social and political relationships that are created, shared and transformed by a group of people.
 
 Culture has multiple factors that influence it : 
 - Historical roots
@@ -25,7 +25,7 @@ Culture has multiple factors that influence it :
 ( Ordered by how easy is it to observe them ) 
 - Concrete level - visible objects, art, food, fashion, architecture
 - Behavioral level - Communication styles, customs, social dynamic
-- Symbolic level - core values and believes
+- Symbolic level - core values and beliefs
 
 ## [[Essential Components of Culture]]
 - Norms 
@@ -45,7 +45,7 @@ Culture has multiple factors that influence it :
 There are 3 ways to learn culture:
 - Imitation - person imitating what a another cultured person  does
 - Conditioning - very similar to carrot and the stick learning approach, when a person makes error his cultural teacher corrects him in a way to align with the said culture
-- Indoctrination - Preacher teaching culture directly to the student for example. The most direct approach
+- Indoctrination - Preaching culture directly to the student. The most direct approach
 
 
 

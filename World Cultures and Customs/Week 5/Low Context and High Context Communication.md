@@ -45,7 +45,7 @@ Relationship oriented
 ##### Core Values
 - Transparency
 - Efficiency
-- Ambiguity
+- no Ambiguity
 - Honesty
 
 ### Indirect Communication Style

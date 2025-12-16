@@ -30,9 +30,9 @@ An awareness that one's basic assumptions about life and one's familiar ways of 
 
 
 
-## Stage Of Culture Shock
+## Stages Of Culture Shock
 ### Honeymoon Phase
-Everything feels great. The happiness level of the person when they came from home to foreign place is actually higher. than before. Everything feels new and interesting, focus on broad than daily life
+Everything feels great. The happiness level of the person when they came from home to foreign place is actually higher, than before. Everything feels new and interesting, focus on broader things over daily life
 
 ### Frustration or Culture Shock Phase
 The person feels irritated and disoriented. The person feels overwhelmed by the new culture. They don`t understand, it is either caused by language barrier and homesickness.
